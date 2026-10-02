@@ -1,0 +1,7 @@
+Site de Elpídio Martins — arquivos estáticos
+
+Abra index.html para visualizar. A pasta public contém a foto usada na página.
+
+O formulário prepara uma mensagem para copiar; para receber pedidos diretamente, configure o canal de contato do profissional (por exemplo, WhatsApp, e-mail ou agenda online).
+
+Os nomes dos planos estão incluídos. Preços e detalhes comerciais podem ser preenchidos conforme definição do profissional.
