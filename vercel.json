@@ -7,7 +7,7 @@
       "use": "@vercel/static"
     },
        {
-      "src": "public/elpido-martins.png",
+      "src": "elpido-martins.png",
       "use": "@vercel/static"
     }
     
